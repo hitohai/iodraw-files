@@ -427,10 +427,13 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-105" value="绑定" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="350" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-106" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-106" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-105">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="430" as="sourcePoint" />
             <mxPoint x="480" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-107" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-106">
