@@ -532,7 +532,7 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-131" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-132" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-132" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-122" target="NAyzd9ZvD4H9Rs1JwjTb-131">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="600" as="sourcePoint" />
             <mxPoint x="740" y="600" as="targetPoint" />
