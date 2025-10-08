@@ -361,15 +361,6 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-83" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-82">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-210" y="850" as="sourcePoint" />
-            <mxPoint x="-50" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-85" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-84">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
