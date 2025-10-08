@@ -212,7 +212,7 @@
           <mxGeometry x="-316" y="198" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-50" value="用户密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="-426" y="229" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-51" value="用户头像" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-210" y="400" width="100" height="40" as="geometry" />
@@ -244,7 +244,7 @@
             <mxPoint x="-120" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-47">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0.395;entryY=0.09;entryDx=0;entryDy=0;exitX=0.698;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-49" target="NAyzd9ZvD4H9Rs1JwjTb-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-270" y="300" as="sourcePoint" />
             <mxPoint x="-110" y="300" as="targetPoint" />
