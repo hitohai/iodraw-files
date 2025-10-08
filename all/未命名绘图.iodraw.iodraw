@@ -76,6 +76,18 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-18" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="510" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="440" as="sourcePoint" />
+            <mxPoint x="460" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="360" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
