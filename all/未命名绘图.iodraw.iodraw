@@ -221,7 +221,7 @@
           <mxGeometry x="-300" y="890" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-75" value="地址类别" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="860" width="100" height="40" as="geometry" />
+          <mxGeometry x="-486" y="752" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-70">
           <mxGeometry relative="1" as="geometry">
@@ -229,7 +229,7 @@
             <mxPoint x="-160" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-70">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-75" target="NAyzd9ZvD4H9Rs1JwjTb-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-360" y="860" as="sourcePoint" />
             <mxPoint x="-200" y="860" as="targetPoint" />
