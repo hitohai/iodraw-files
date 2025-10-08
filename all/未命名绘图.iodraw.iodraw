@@ -38,7 +38,7 @@
           <mxGeometry x="40" y="330" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-11" value="闲&lt;div&gt;置&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="330" width="30" height="100" as="geometry" />
+          <mxGeometry x="140" y="330" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-12" value="订&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="30" height="100" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="260" y="330" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-16" value="闲&lt;div&gt;置&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;询&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="330" width="30" height="100" as="geometry" />
+          <mxGeometry x="100" y="510" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-17" value="公&lt;div&gt;告&lt;/div&gt;&lt;div&gt;链&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="510" width="30" height="100" as="geometry" />
