@@ -427,15 +427,6 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-107" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-106">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-108" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-105">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="630" as="sourcePoint" />
-            <mxPoint x="240" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-109" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-108">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-113" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="330" as="sourcePoint" />
@@ -507,15 +498,6 @@
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-136" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-139" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-136">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="630" as="sourcePoint" />
-            <mxPoint x="230" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-140" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-139">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-143" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-47">
           <mxGeometry relative="1" as="geometry">
