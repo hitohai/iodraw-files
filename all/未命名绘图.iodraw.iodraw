@@ -71,6 +71,11 @@
             <mxPoint x="140" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H_JoTHn_Hi1DOtay0XBw-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_JoTHn_Hi1DOtay0XBw-37">
+          <mxGeometry x="0.0583" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
