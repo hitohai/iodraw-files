@@ -57,7 +57,7 @@
           <mxGeometry x="290" y="345" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H_JoTHn_Hi1DOtay0XBw-33" value="D5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="290" y="435" width="100" height="30" as="geometry" />
+          <mxGeometry x="290" y="495" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H_JoTHn_Hi1DOtay0XBw-34" value="D6" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="290" y="575" width="100" height="30" as="geometry" />
@@ -132,6 +132,14 @@
         <mxCell id="H_JoTHn_Hi1DOtay0XBw-47" value="管理查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_JoTHn_Hi1DOtay0XBw-46">
           <mxGeometry x="0.573" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_JoTHn_Hi1DOtay0XBw-49" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;P5&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;留言管理&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="490" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_JoTHn_Hi1DOtay0XBw-50" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="H_JoTHn_Hi1DOtay0XBw-49">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
