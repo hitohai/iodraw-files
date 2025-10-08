@@ -250,7 +250,7 @@
             <mxPoint x="-110" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-58" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-58" value="公告链接" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="710" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
