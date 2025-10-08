@@ -263,8 +263,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H_JoTHn_Hi1DOtay0XBw-70" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H_JoTHn_Hi1DOtay0XBw-70" value="用户表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H_JoTHn_Hi1DOtay0XBw-71" value="分类表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H_JoTHn_Hi1DOtay0XBw-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="335" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
