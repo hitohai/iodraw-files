@@ -172,10 +172,13 @@
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-40" value="订&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="460" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zPr8W9PkwtvQSRJ7usUx-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zPr8W9PkwtvQSRJ7usUx-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zPr8W9PkwtvQSRJ7usUx-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="380" as="sourcePoint" />
             <mxPoint x="500" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
