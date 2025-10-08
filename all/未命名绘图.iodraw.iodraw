@@ -358,18 +358,6 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-87" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-86">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-91" value="关联" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-91">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-200" y="330" as="sourcePoint" />
-            <mxPoint x="-40" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-95" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-94">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-96" value="查看" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-450" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
@@ -447,20 +435,6 @@
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-136" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-143" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="780" as="sourcePoint" />
-            <mxPoint x="340" y="780" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-480" y="660" />
-              <mxPoint x="-380" y="1020" />
-              <mxPoint x="60" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-144" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-143">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-22" target="NAyzd9ZvD4H9Rs1JwjTb-22">
           <mxGeometry relative="1" as="geometry" />
