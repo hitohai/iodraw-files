@@ -63,7 +63,7 @@
           <mxGeometry x="290" y="575" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H_JoTHn_Hi1DOtay0XBw-35" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="30" height="60" as="geometry" />
+          <mxGeometry x="490" y="545" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H_JoTHn_Hi1DOtay0XBw-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="H_JoTHn_Hi1DOtay0XBw-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
