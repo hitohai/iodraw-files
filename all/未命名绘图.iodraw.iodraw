@@ -278,6 +278,9 @@
         <mxCell id="H_JoTHn_Hi1DOtay0XBw-74" value="留言表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="495" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="H_JoTHn_Hi1DOtay0XBw-75" value="公告表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
