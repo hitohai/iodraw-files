@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zPr8W9PkwtvQSRJ7usUx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPr8W9PkwtvQSRJ7usUx-1" target="zPr8W9PkwtvQSRJ7usUx-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPr8W9PkwtvQSRJ7usUx-1" target="zPr8W9PkwtvQSRJ7usUx-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -16,7 +13,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPr8W9PkwtvQSRJ7usUx-1" target="zPr8W9PkwtvQSRJ7usUx-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="220" />
+              <mxPoint x="610" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-1" value="基于SSM的校园二手交易平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="180" height="40" as="geometry" />
