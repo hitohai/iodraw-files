@@ -569,10 +569,13 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-140" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-139">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-141" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-141" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-1" target="NAyzd9ZvD4H9Rs1JwjTb-136">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="450" as="sourcePoint" />
             <mxPoint x="600" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="580" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-142" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-141">
