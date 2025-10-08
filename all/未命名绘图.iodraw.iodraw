@@ -548,10 +548,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="150" as="sourcePoint" />
             <mxPoint x="440" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="50" />
+              <mxPoint x="680" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-135" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-134">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-136" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
