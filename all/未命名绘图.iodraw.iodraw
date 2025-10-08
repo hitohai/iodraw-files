@@ -558,6 +558,9 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-22" target="NAyzd9ZvD4H9Rs1JwjTb-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-152" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="482" y="634" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
