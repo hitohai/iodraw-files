@@ -61,10 +61,13 @@
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-19" value="闲&lt;div&gt;置&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;&lt;div&gt;布&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zPr8W9PkwtvQSRJ7usUx-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zPr8W9PkwtvQSRJ7usUx-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zPr8W9PkwtvQSRJ7usUx-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="280" as="sourcePoint" />
             <mxPoint x="250" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
