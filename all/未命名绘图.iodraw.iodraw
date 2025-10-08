@@ -170,7 +170,7 @@
           <mxGeometry x="472" y="868" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-62" value="公告大图" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1050" width="100" height="40" as="geometry" />
+          <mxGeometry x="528" y="919" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-63" value="公告id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="108" y="903" width="100" height="40" as="geometry" />
@@ -199,7 +199,7 @@
             <mxPoint x="640" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-58" target="NAyzd9ZvD4H9Rs1JwjTb-62">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAyzd9ZvD4H9Rs1JwjTb-58" target="NAyzd9ZvD4H9Rs1JwjTb-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="750" as="sourcePoint" />
             <mxPoint x="590" y="750" as="targetPoint" />
