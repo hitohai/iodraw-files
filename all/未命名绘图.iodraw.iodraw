@@ -268,6 +268,12 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-63" value="公告id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="250" y="710" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="670" as="sourcePoint" />
+            <mxPoint x="530" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
