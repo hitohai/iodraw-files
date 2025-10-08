@@ -391,7 +391,7 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-95" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-94">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-96" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-96" value="查看" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-450" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
