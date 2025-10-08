@@ -35,8 +35,16 @@
             <mxPoint x="390" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t3hGY4iGrrgbZL72vCAe-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t3hGY4iGrrgbZL72vCAe-17">
+          <mxGeometry x="-0.337" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t3hGY4iGrrgbZL72vCAe-14" value="是否校验通过" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t3hGY4iGrrgbZL72vCAe-18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
