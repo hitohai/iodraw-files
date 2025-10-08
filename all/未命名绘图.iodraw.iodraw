@@ -599,13 +599,22 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-145" value="评论" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-180" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-146" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NAyzd9ZvD4H9Rs1JwjTb-145">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-160" y="290" as="sourcePoint" />
             <mxPoint y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-147" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-146">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-148" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="130" as="sourcePoint" />
+            <mxPoint x="120" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-149" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-148">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
