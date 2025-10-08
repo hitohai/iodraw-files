@@ -25,7 +25,7 @@
           <mxGeometry x="170" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-5" value="管理员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="570" y="245" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zPr8W9PkwtvQSRJ7usUx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPr8W9PkwtvQSRJ7usUx-7" target="zPr8W9PkwtvQSRJ7usUx-17">
           <mxGeometry relative="1" as="geometry" />
