@@ -346,7 +346,7 @@
             <mxPoint x="-60" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-81" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-81" value="关联" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-10" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
