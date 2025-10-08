@@ -599,6 +599,15 @@
         <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-145" value="评论" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-180" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="290" as="sourcePoint" />
+            <mxPoint y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAyzd9ZvD4H9Rs1JwjTb-147" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NAyzd9ZvD4H9Rs1JwjTb-146">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
