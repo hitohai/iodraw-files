@@ -52,7 +52,13 @@
             <mxPoint x="480" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="490" y="670" />
+              <mxPoint x="490" y="530" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3hGY4iGrrgbZL72vCAe-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t3hGY4iGrrgbZL72vCAe-20">
+          <mxGeometry x="0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
