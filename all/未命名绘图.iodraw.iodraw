@@ -93,9 +93,12 @@
             <mxPoint x="200" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="150" y="450" />
-              <mxPoint x="190" y="450" />
+              <mxPoint x="185" y="450" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zPr8W9PkwtvQSRJ7usUx-24" value="公&lt;div&gt;告&lt;/div&gt;&lt;div&gt;链&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
